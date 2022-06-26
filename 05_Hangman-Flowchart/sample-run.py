@@ -51,7 +51,7 @@ t
     ===
 _ a t
 
-# %th Guess
+# 5th Guess
 Guess a letter
 a
 You have already guessed that letter. Chose again.
